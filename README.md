@@ -3,6 +3,7 @@ This is the latest version of my flipper battlebot: Havoc F. I designed it in On
 
 The most important change is the scoop. It uses a sheet metal formed steel scoop that I had manufactured and hard coat anodized at JLCCNC. The quality and price of this was impressive and it makes the robot significantly more effective and durable. I got it manufactured here: https://jlccnc.com/?from=Oliver1
 
+_____________________________________________________________________________
 
 Here's the parts list:
 
@@ -44,6 +45,8 @@ Here's the parts list:
 
 4x 16mm diameter O-rings
 
+_____________________________________________________________________________
+
 
 RECOMMENDED PRINT SETTINGS:
 
@@ -68,6 +71,8 @@ For TPU or flexible parts:
 2 walls
 
 5 top and bottom shell layers
+
+_____________________________________________________________________________
 
 
 Assembly:
