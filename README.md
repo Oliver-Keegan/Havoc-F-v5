@@ -28,25 +28,16 @@ Here's the parts list:
 RECOMMENDED PRINT SETTINGS:
 
 For all PETG-CF or rigid parts:
-
 0.15mm layer height
-
 20% gyroid infill
-
 2 walls
-
 2 top shell layers
-
 5 bottom shell layers
 
 For TPU or flexible parts:
-
 0.28mm layer height
-
 0% infill (makes it cushiony)
-
 2 walls
-
 5 top and bottom shell layers
 
 Assembly:
